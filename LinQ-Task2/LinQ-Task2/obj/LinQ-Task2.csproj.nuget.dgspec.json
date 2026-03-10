@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\EL RAWAD\\source\\repos\\LINQs-Day1-2Task\\LinQ-Task2\\LinQ-Task2\\LinQ-Task2.csproj": {}
+    "C:\\Users\\EL RAWAD\\Source\\Repos\\LINQs-Day1-2Task\\LinQ-Task2\\LinQ-Task2\\LinQ-Task2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\EL RAWAD\\source\\repos\\LINQs-Day1-2Task\\LinQ-Task2\\LinQ-Task2\\LinQ-Task2.csproj": {
+    "C:\\Users\\EL RAWAD\\Source\\Repos\\LINQs-Day1-2Task\\LinQ-Task2\\LinQ-Task2\\LinQ-Task2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\EL RAWAD\\source\\repos\\LINQs-Day1-2Task\\LinQ-Task2\\LinQ-Task2\\LinQ-Task2.csproj",
+        "projectUniqueName": "C:\\Users\\EL RAWAD\\Source\\Repos\\LINQs-Day1-2Task\\LinQ-Task2\\LinQ-Task2\\LinQ-Task2.csproj",
         "projectName": "LinQ-Task2",
-        "projectPath": "C:\\Users\\EL RAWAD\\source\\repos\\LINQs-Day1-2Task\\LinQ-Task2\\LinQ-Task2\\LinQ-Task2.csproj",
+        "projectPath": "C:\\Users\\EL RAWAD\\Source\\Repos\\LINQs-Day1-2Task\\LinQ-Task2\\LinQ-Task2\\LinQ-Task2.csproj",
         "packagesPath": "C:\\Users\\EL RAWAD\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\EL RAWAD\\source\\repos\\LINQs-Day1-2Task\\LinQ-Task2\\LinQ-Task2\\obj\\",
         "projectStyle": "PackageReference",
